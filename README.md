@@ -12,16 +12,12 @@ I am part of the Techorama board and organize this event in Europe. In my spare 
 
 I have been awarded by Microsoft the Microsoft MVP award for more than 16 consecutive years and I am also a Microsoft Regional Director since 2008. You can always contact me to talk about toppics like Cloud Adoption Strategies, Business Development, DevOps, Cloud Computing, Microservices, Containers, IaaS, PaaS, and SaaS.
 
-- 🤔 I’m looking for help with the following: 
-Finding talented people that like to work for our company. 
+- 🤔 I’m looking for help with the following: Finding talented people that like to work for our company. 
 Never hesitate to reach out to me to have a chat!
-- 💬 Ask me about the following:
-Micro Services, Software Architecture, Kubernetes, Dapr, Containers, GitHub
+- 💬 Ask me about the following: Micro Services, Software Architecture, Kubernetes, Dapr, Containers, GitHub
 Starting a business, Growing a business, Growth Mindset, People first, Overcoming fears
 - 📫 How to reach me: 
 Twitter: @marcelv
 Linked-in: https://www.linkedin.com/in/marcelv/
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
-I am Dyslectic
-I sort my M&M's and eat them in rainbow sequence.
+- ⚡ Fun fact: I am Dyslectic and I sort my M&M's and eat them in rainbow sequence.
