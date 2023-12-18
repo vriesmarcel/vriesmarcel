@@ -1,6 +1,6 @@
 ### Hi there 👋 My name is Marcel de Vries
 
-I am the co-founder, Global MD, and CTO of the Xebia Microsoft Services Serviceline. I co-founded this business, previously called Xpirit as an individual company under the Xebia group in 2014. This has now transformed into the Microsoft service line of Xebia worldwide! Xpirit provides professional services to companies worldwide to build, manage, and support their business when that runs on Microsoft Azure and is built and maintained on GitHub or Azure DevOps. We build Cloud Native Software and provide Managed Services as part of our consultancy practices.
+I am the co-founder, Global MD, and CTO of the Xebia Microsoft Services Serviceline. I co-founded this business, previously called Xpirit, as an individual company under the Xebia group in 2014. This has now transformed into the Microsoft service line of Xebia worldwide! Our company provides professional services to companies worldwide to build, manage, and support their business when that runs on Microsoft Azure and is built and maintained on GitHub or Azure DevOps. We build Cloud Native Software and provide Managed Services as part of our consultancy practices.
 
 I spend most of my time working with organizations to deliver software to production multiple times a day in a secure and compliant way! I help organizations and leadership teams move the business needle by building an engineering culture.
 
